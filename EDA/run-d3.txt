@@ -1,0 +1,1 @@
+To run D3.js visualization code e.g. `bind-brand-pack-circ-viz.html` run a server in this directory and then open this file.

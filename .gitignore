@@ -1,2 +1,8 @@
 env
 data
+.ipynb_checkpoints
+.pkl
+kaggle
+.json
+.html
+.zip
