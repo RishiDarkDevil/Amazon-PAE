@@ -18,7 +18,7 @@ Data Cleaning | Chunking
 -|-
 ![](interactive-plots/1.png)|![](interactive-plots/2.png)
 Product Attribute Clustering | Cluster Labelling
-![](interactive-plots/3.png)| ![](interactive-plots/4.png)
+![](interactive-plots/3.png)|![](interactive-plots/5.png)
 
 Two fine-tuned models related to this work can be found at the HuggingFace Model Hub:
 - [DistilBERT fine-tuned for Amazon India Brand Name Detection](https://huggingface.co/Aleron12/distilbert-base-uncased-finetuned-amz_brander)
